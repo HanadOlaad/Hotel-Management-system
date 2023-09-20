@@ -28,41 +28,7 @@
 3. Run the Program using [Project.java](/src/project/Project.java).
 
 
-## Demos
 
-
-<div align="center">
-  <h2>Overview</h2>
-<img src="/screenshots/001.gif" alt= "image">
-</div>
-
------
-
-<div align="center">
-  <h2>Login</h2>
-<img src="/screenshots/005.gif" alt= "image">
-</div>
-
------
-
-
-<div align="center">
-  <h2>Check-In Process</h2>
-<img src="/screenshots/002.gif" alt= "image">
-</div>
-
------
-
-
-<div align="center">
-  <h2>Cancel Booking</h2>
-<img src="/screenshots/003.gif" alt= "image">
-</div>
-
------
-
-
-<div align="center">
   <h2>Add, Delete and Show Users</h2>
 <img src="/screenshots/004.gif" alt= "image">
 </div>
