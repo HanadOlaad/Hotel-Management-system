@@ -1,8 +1,8 @@
 # Hotel Management System - JavaFX 
 
 <div align="center">
-<img src="https://i.imgur.com/Fk7sfMT.jpg" >
-<strong><p>Desktop Application to Manage the reservations and Guest Check-in or Check-Out Using JavaFX and SQL Database with Hibernate ORM. </p></strong>
+
+<strong><p>Desktop Application to Manage the reservations and Guest Check-in or Check-Out Using JavaFX and SQL Database  </p></strong>
 </div>
 
 ## Getting Started
@@ -10,10 +10,10 @@
 ### Requirements
 1. [Oracle JDK 8]
     
-    -
+
 2. [XAMMP] for MySQL server.
   
-    -
+
 3. [Intellij IDE]
 
 
@@ -23,8 +23,7 @@
 
 2. Import [hotel.sql](/hotel.sql) to import the database.
 
-    - [How to Import .sql file to Database]
-
+   
 3. Run the Program using [Project.java](/src/project/Project.java).
 
 
