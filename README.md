@@ -8,13 +8,13 @@
 ## Getting Started
 
 ### Requirements
-1. [Oracle JDK 8](https://www.oracle.com/java/technologies/javase/javase8u211-later-archive-downloads.html)
+1. [Oracle JDK 8]
     
-    - [Download and install Tutorial](https://youtu.be/XsdvQD_SDvw)
-2. [XAMMP](https://www.apachefriends.org/index.html) for MySQL server.
+    -
+2. [XAMMP] for MySQL server.
   
-    - [Tutorial: How To Install](https://youtu.be/N43oVPkrTg8)
-3. [NetBeans IDE](https://netbeans.apache.org/)
+    -
+3. [Intellij IDE]
 
 
 ### How to run
@@ -23,7 +23,7 @@
 
 2. Import [hotel.sql](/hotel.sql) to import the database.
 
-    - [How to Import .sql file to Database](https://youtu.be/GHSis3KwnkM)
+    - [How to Import .sql file to Database]
 
 3. Run the Program using [Project.java](/src/project/Project.java).
 
